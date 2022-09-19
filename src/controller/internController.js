@@ -2,7 +2,7 @@ const internModel = require('../model/internModel')
 const collegeModel = require('../model/collegeModel')
 const validator = require("email-validator");
 const _ = require('lodash');
-const re = /^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4}$/im;
+const re = /^[\+]?[(]?[6-9]{1}[)]?[-\s\.]?[0-9]{5}[-\s\.]?[0-9]{4}$/im;
 
 
 
